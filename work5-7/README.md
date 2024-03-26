@@ -35,26 +35,44 @@
 ---------
 ### Задание 5
 
+[Код приложения](5-2.clp)
+
 ![](images/result-5-2.png)
 
+[Код приложения](5-3.clp)
+
 ![](images/result-5-3.png)
+
+[Код приложения](5-5.clp)
 
 ![](images/result-5-5.png)
 
 -------
 ### Задание 6
 
+[Код приложения](6-1.clp)
+
 ![](images/result-6-1.png)
 
+[Код приложения](6-3.clp)
+
 ![](images/result-6-3.png)
+
+[Код приложения](6-6.clp)
 
 ![](images/result-6-6.png)
 
 -----
 ### Задание 7
 
+[Код приложения](7-1.clp)
+
 ![](images/result-7-1.png)
 
+[Код приложения](7-3.clp)
+
 ![](images/result-7-3.png)
+
+[Код приложения](7-5.clp)
 
 ![](images/result-7-5.png)
