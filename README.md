@@ -4,4 +4,3 @@
 
 * [CLIPS 1-4](work1-4/README.md)
 * [CLIPS 5-7](work5-7/README.md)
-* [ЭС](ЭС/README.md)
